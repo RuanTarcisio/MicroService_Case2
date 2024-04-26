@@ -1,0 +1,3 @@
+br/com/rtarcisio/core/model/AbstractEntity.class
+br/com/rtarcisio/core/model/Course.class
+br/com/rtarcisio/core/repository/CourseRepository.class

@@ -1,4 +1,4 @@
-package br.com.rtarcisio.course.Model;
+package br.com.rtarcisio.core.model;
 
 import java.io.Serializable;
 
