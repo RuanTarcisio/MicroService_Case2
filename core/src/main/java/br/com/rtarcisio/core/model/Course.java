@@ -1,6 +1,10 @@
 package br.com.rtarcisio.core.model;
 
+
+import jakarta.persistence.Column;
 import jakarta.persistence.*;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
 import jakarta.validation.constraints.NotEmpty;
 import lombok.AllArgsConstructor;
 import lombok.Data;
